@@ -1,4 +1,4 @@
 <?php
-header("Location: http://geekologie.com/2018/05/publix-grocery-store-censors-summa-cum-l.php/");
+header("Location: https://www.pinterest.com/warfelcc/virtual-design-construction/");
 die();
 ?>
